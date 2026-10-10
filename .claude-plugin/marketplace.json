@@ -1,0 +1,7 @@
+{
+  "name": "claude-sub-usage",
+  "owner": { "name": "illes85" },
+  "plugins": [
+    { "name": "sub-usage", "source": "./", "description": "Shows Claude subscription usage (5-hour and weekly limits) in the status line and above the prompt." }
+  ]
+}
